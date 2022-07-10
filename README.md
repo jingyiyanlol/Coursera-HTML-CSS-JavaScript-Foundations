@@ -1,7 +1,7 @@
 # personal-webpage
 My repository of codes used in Coursera's "Programming Foundations with JavaScript, HTML and CSS" course
 
-Resources for the course:
+## Resources for the course:
 * **DukeLearnToProgram (DLTP) Course 1 Landing Page:** [http://www.dukelearntoprogram.com/course1/index.php](http://www.dukelearntoprogram.com/course1/index.php)
 
 * **DLTP JavaScript Environment:** [http://www.dukelearntoprogram.com/course1/example/index.php](http://www.dukelearntoprogram.com/course1/example/index.php)

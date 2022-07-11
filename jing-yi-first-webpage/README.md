@@ -28,3 +28,14 @@ You can use any number from <h1> to <h6> with <h1> being the largest heading and
 <em>Apply emphasis to text</em>
 ```
 * Experiment with nesting tags
+
+### Exercise 3:
+* Add [Links]()
+```html
+<a href="https://www.duke.edu/">Duke University</a>
+```
+* Add Images
+```html
+<img src="http://bit.ly/1QfkvVw" width="100px">
+```
+

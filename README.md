@@ -25,3 +25,12 @@ My repository of codes used in Coursera's "Programming Foundations with JavaScri
 * https://www.base64-image.de/
 
 * http://tinypic.com/
+
+### CSS Examples
+* Some basic example CSS styling properties: [http://www.dukelearntoprogram.com/course1/doc/#css](http://www.dukelearntoprogram.com/course1/doc/#css)
+
+* Example “My Interests” page: [http://codepen.io/quentinre/pen/pEoqBK](http://codepen.io/quentinre/pen/pEoqBK)
+
+* W3Schools: [http://www.w3schools.com/css/default.asp](http://www.w3schools.com/css/default.asp) 
+
+* 140 color names to color the page: [http://www.w3schools.com/cssref/css_colors.asp](http://www.w3schools.com/cssref/css_colors.asp)

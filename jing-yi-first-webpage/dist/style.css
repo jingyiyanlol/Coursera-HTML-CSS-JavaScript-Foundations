@@ -1,0 +1,103 @@
+h1 {
+  text-align: center;
+  font-size: 2em;
+  color: blue;
+}
+
+.titlediv {
+  border-top-style: solid;
+  border-bottom-style: solid;
+  border-color: RoyalBlue;
+  border-width: 1px;
+  padding-left: 5px;
+  font-family: "Courier New", Courier, monospace;
+  text-align: center;
+}
+
+.subtitle {
+  /*Making subtitle font a little bigger*/
+  /*Also using em instead of px for font sizes for more consistent experience for both desktop and mobile devices*/
+  font-size: 1.4em;
+}
+
+.cleardiv {
+  /*A simple div*/
+  font-family: Verdana, Geneva, sans-serif;
+}
+
+.boxdiv {
+  /*A blue box with rounded corners div*/
+  background-color: AliceBlue;
+  border: solid;
+  border-width: 1px;
+  border-color: CornflowerBlue;
+  margin: 0px 2px 15px 2px;
+  padding: 0px 17px 5px 17px;
+  border-radius: 25px;
+  font-family: Verdana, Geneva, sans-serif;
+}
+
+.container {
+	margin: 0;
+	background: linear-gradient(45deg, #49a09d, #5f2c82);
+	font-family: sans-serif;
+	font-weight: 100;
+}
+
+#climb_img {
+  width: 10em;
+  border: solid;
+  border-width: 1px;
+  border-color: GhostWhite;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+table {
+	width: 1460px;
+	overflow: hidden;
+	box-shadow: 0 0 20px rgba(0,0,0,0.1);
+}
+
+
+td {
+	padding: 15px;
+	background-color: rgba(255,255,255,0.2);
+	color: #fff;
+}
+
+th {
+  padding: 15px;
+	text-align: left;
+  color: #fff;
+  border: solid;
+}
+
+thead {
+	th {
+		background-color: #55608f;
+	}
+}
+
+tbody {
+	tr {
+		&:hover {
+			background-color: rgba(255,255,255,0.3);
+		}
+	}
+	td {
+		position: relative;
+		&:hover {
+			&:before {
+				content: "";
+				position: absolute;
+				left: 0;
+				right: 0;
+				top: -9999px;
+				bottom: -9999px;
+				background-color: rgba(255,255,255,0.2);
+				z-index: -1;
+			}
+		}
+	}
+}

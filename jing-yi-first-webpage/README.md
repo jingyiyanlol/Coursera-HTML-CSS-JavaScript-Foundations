@@ -72,3 +72,41 @@ You can use any number from <h1> to <h6> with <h1> being the largest heading and
 </table>
 ```
 4. Nest lists in lists or in table cells
+
+### Exercise 5:
+1. Use CSS to style at least two HTML elements (paragraphs, headings, images etc.)
+```css
+h1 {
+    color: rgb(0,0,255);
+}
+```
+2. Add IDs or classes to at least two HTML elements and use CSS to style some IDs or classes.
+* Using Classes
+```css
+.titlediv {
+  border-top-style: solid;
+  border-bottom-style: solid;
+  border-color: RoyalBlue;
+  border-width: 1px;
+  padding-left: 5px;
+  font-family: "Courier New", Courier, monospace;
+  text-align: center;
+}
+```
+```html
+<div class="titlediv"></div>
+```
+* Using IDs
+```css
+#climb_img {
+  width: 10em;
+  border: solid;
+  border-width: 1px;
+  border-color: GhostWhite;
+  margin-left: auto;
+  margin-right: auto;
+}
+```
+```html
+<img src="https://i.postimg.cc/fbr5r9s4/me-climbing.jpg" alt="" id="climb_img">
+```

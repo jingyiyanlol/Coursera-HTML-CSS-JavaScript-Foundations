@@ -34,3 +34,4 @@ My repository of codes used in Coursera's "Programming Foundations with JavaScri
 * W3Schools: [http://www.w3schools.com/css/default.asp](http://www.w3schools.com/css/default.asp) 
 
 * 140 color names to color the page: [http://www.w3schools.com/cssref/css_colors.asp](http://www.w3schools.com/cssref/css_colors.asp)
+* CSS color picker tool: [https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Colors/Color_picker_tool](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Colors/Color_picker_tool)

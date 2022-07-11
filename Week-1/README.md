@@ -2,7 +2,7 @@
 
 A Pen created on CodePen.io. Original URL: [https://codepen.io/jingyiyanlol/pen/xxWOErP](https://codepen.io/jingyiyanlol/pen/xxWOErP).
 
-<img src="https://github.com/jingyiyanlol/personal-webpage/blob/main/Week-1/Interest-Page-First-Draft.png?raw=true">
+<img src="https://github.com/jingyiyanlol/Coursera-HTML-CSS-JavaScript-Foundations/blob/main/Week-1/Interest-Page-First-Draft.png?raw=true">
 
 ## Week 1 Coursera Exercises
 ### Exercise 1: 

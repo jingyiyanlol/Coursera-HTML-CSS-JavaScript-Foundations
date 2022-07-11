@@ -1,4 +1,4 @@
-# personal-webpage
+# Coursera-HTML-CSS-JavaScript-Foundations
 My repository of codes used in Coursera's "Programming Foundations with JavaScript, HTML and CSS" course
 
 [Course Link](https://www.coursera.org/programs/national-university-of-singapore-on-coursera-bm9c5/browse?authProvider=nus&productId=c_rkuRoBEeWDtQoum3sFeQ&productType=course&query=Programming+Foundations+with+JavaScript%2C+HTML+and+CSS&showMiniModal=true&source=search)
